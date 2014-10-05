@@ -3,13 +3,16 @@
   "name": "nist-beacon",
   "description": "Javascript wrapper for the NIST Beacon API.",
   "keywords": ["nist", "beacon"],
-  "version": "0.1.0",
+  "version": "0.1.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/charlescharles/nist-beacon.git"
   },
+  "main": "./lib/nist-beacon",
+  "directories": {
+    "lib": "./lib"
+  },
   "dependencies": {
-    "https": "~0.10.32",
     "xml2js":"~0.4.4"
   },
   "engines": {
