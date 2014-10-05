@@ -2,7 +2,7 @@
   "author": "charles guo",
   "name": "nist-beacon",
   "description": "Javascript wrapper for the NIST Beacon API.",
-  "keywords": ["nist", "beacon"]
+  "keywords": ["nist", "beacon"],
   "version": "0.1.0",
   "repository": {
     "type": "git",
